@@ -1,0 +1,4 @@
+return_id,taxpayer_id,tax_year,income,deduction,rule,reason,source_table
+R02,F1,2022,,33,completeness,missing required value: income,training.to6_challenge3_inputs.returns_initial
+R01,F0,2022,100,20,uniqueness,return_id appears 2 times,training.to6_challenge3_inputs.returns_initial
+R01,F0,2022,100,20,uniqueness,return_id appears 2 times,training.to6_challenge3_inputs.returns_initial

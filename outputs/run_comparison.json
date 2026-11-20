@@ -1,0 +1,31 @@
+{
+  "run_1": {
+    "executed_at_utc": "2026-11-20T17:18:11+00:00",
+    "notebook_url": "https://dbc-48a16403-f66f.cloud.databricks.com/editor/notebooks/127024866558985",
+    "run_id": "20261120T171811Z",
+    "row_counts": {
+      "features_test": 4,
+      "features_train": 4,
+      "features_validation": 4,
+      "return_features": 12
+    }
+  },
+  "run_2": {
+    "executed_at_utc": "2026-11-20T17:20:14+00:00",
+    "notebook_url": "https://dbc-48a16403-f66f.cloud.databricks.com/editor/notebooks/127024866558985",
+    "run_id": "20261120T172014Z",
+    "row_counts": {
+      "features_test": 4,
+      "features_train": 4,
+      "features_validation": 4,
+      "return_features": 12
+    }
+  },
+  "snapshot_files": [
+    "outputs/runs/run_20261120T171811Z.csv",
+    "outputs/runs/run_20261120T172014Z.csv"
+  ],
+  "rows_compared": 24,
+  "mismatched_rows": 0,
+  "identical_ids_and_values": true
+}

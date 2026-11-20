@@ -1,0 +1,7 @@
+batch,rule,failed_rows,result,decision
+training.to6_challenge3_inputs.returns_initial,completeness,1,FAIL,REJECTED
+training.to6_challenge3_inputs.returns_initial,uniqueness,2,FAIL,REJECTED
+training.to6_challenge3_inputs.returns_initial,validity,0,PASS,REJECTED
+training.to6_challenge3_inputs.returns_corrected,completeness,0,PASS,ACCEPTED
+training.to6_challenge3_inputs.returns_corrected,uniqueness,0,PASS,ACCEPTED
+training.to6_challenge3_inputs.returns_corrected,validity,0,PASS,ACCEPTED
